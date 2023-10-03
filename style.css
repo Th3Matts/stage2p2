@@ -1,3 +1,57 @@
-.texto{
-  color: #FF00FF;
+body,p, a{
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+  line-height: 22px;
+  color: #828282;
+}
+
+.main{
+  padding: 64px 0;
+}
+
+h1{
+  font-family: 'Dosis', sans-serif;
+  font-weight: normal;
+  font-size: 32px;
+  color: #3F3D56;
+}
+
+strong, a{
+  color: #3F3D56;
+}
+
+h1 strong{
+  color:#EE24FF;
+}
+
+#acerola{
+  width: 540px;
+  height: 107px;
+  margin: 16px auto 53px;
+}
+
+#hero{
+  margin: 0 72px 32px;
+}
+
+.line{
+  width: 390px;
+  height: 0;
+  margin: 0 auto 16px;
+  border: 1px solid #ECEFF2;
+}
+
+#navegg a{
+  font-size: 15px;
+  font-weight: bold;
+  text-decoration: none;
+  margin: 0 21px;
+}
+
+#wave{
+  width: 100%;
+  height: 104px;
+  position: fixed;
+  right: 0;
+  bottom: 0;
 }
